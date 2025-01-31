@@ -6,3 +6,4 @@ combine git add and git commit
 
 git commit -am "use of git commit -am"
 try again 
+
